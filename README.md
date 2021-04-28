@@ -1,5 +1,5 @@
 # Matplotlib-Data-Visualization
-# The ower of plots applys to a real-world situation and dataset:
+# The Power of Plots applys to a real-world situation and dataset:
 
 ## Background
 
